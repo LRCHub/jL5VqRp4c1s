@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "弱くなった",
+  "base_artist": "UNFAIR RULE",
+  "createdAt": "2025-12-17T15:16:28.782504Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "弱くなった",
+      "artist": "UNFAIR RULE",
+      "has_synced": false,
+      "path": "select/pl_01_弱くなった_UNFAIR_RULE.txt"
+    }
+  ]
+}
